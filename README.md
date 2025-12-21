@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Security](https://img.shields.io/badge/Security-SSL%2FTLS-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
-A robust multi-threaded chat application built in Java that demonstrates secure socket communication using **SSL/TLS encryption**. This project allows multiple clients to communicate over a local network with full encryption, protecting the contents of messages from attackers using packet sniffing.
+A robust multi-threaded chat application built in Java that demonstrates secure socket communication using **SSL/TLS encryption**. This project allows multiple clients to communicate over a local network with full encryption, protecting the contents of messages from attackers using packet sniffing through tools such as Wireshark.
 
 🔗 **Repo:** [https://github.com/Zidane404/CS2SNS](https://github.com/Zidane404/CS2SNS)
 
